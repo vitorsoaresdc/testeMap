@@ -1,0 +1,43 @@
+body {
+    font-family: verdana;
+}
+
+.meuForm {
+    width: 100%;
+    max-width: 500px;
+}
+
+input {
+    width: 200px;
+    height:25px;
+}
+
+#botaoEnviar {
+    width: 80px;
+    height: 30px;
+    background: #1e90ff;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+li {
+
+}
+
+a{
+    text-decoration: none;
+    color:#262626;
+}
+
+p {
+    background: red;
+    width: 200px;
+    height:30px;
+    line-height: 30px;
+    color: #fff;
+    border-radius: 5px;
+}
